@@ -7,7 +7,7 @@ Native language support is an essential key point for such experiences provides 
 ![](./ScreenShots/BotEmulator.png)
 
 
-In this demo I used "TR>EN" translation, Turkish as native language and English as target language.
+In this demo "TR>EN" translation is used, Turkish as native language and English as target language. When you type your text on chat windows, your native language will be detected by API. You only need to set your target language for translation. 
 
 [![Deploy to Azure][Deploy Button]][Deploy BotTranslator]
 
